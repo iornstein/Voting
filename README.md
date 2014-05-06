@@ -1,4 +1,0 @@
-Voting
-======
-
-jericho Voting program
